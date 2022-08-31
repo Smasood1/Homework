@@ -1,0 +1,22 @@
+saadmasood@Saads-Air Homework % ls
+Hw.txt
+
+ls lists all the files in the current path.
+
+saadmasood@Saads-Air Homework % touch whatistouch.txt
+saadmasood@Saads-Air Homework % ls
+Hw.txt		whatistouch.txt
+
+Touch creates a file such as whatistouch.txt, in this case this is a text file.
+
+saadmasood@Saads-Air Homework % pwd
+/Users/saadmasood/Homework
+
+pwd shows the working directory 
+
+Hw.txt		whatistouch.txt
+saadmasood@Saads-Air Homework % rm whatistouch.txt
+saadmasood@Saads-Air Homework % ls
+Hw.txt
+
+Rm means remove, here i removed the whatistouch.txt 
